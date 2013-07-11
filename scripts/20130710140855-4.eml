@@ -1,0 +1,9 @@
+From: verify@localhost
+To: mathew@reyes.com
+Message-ID: <11129603.4.1373490535315.JavaMail.lavendbr@L061429>
+Subject: Please verify your email address
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Please visit http://localhost:8080/EmailVerify/faces/checklink.xhtml?token=1EB79BC11E61922C564DE91977C0A131
