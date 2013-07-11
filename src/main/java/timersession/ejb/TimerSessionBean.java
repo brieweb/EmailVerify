@@ -75,13 +75,8 @@ public class TimerSessionBean {
 
 	
 
-		Properties props = new Properties();
-		try {
-			props.load(this.getClass().getResourceAsStream("mailverify.properties"));
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		//Properties props = new Properties();
+		//props.load("mailverify.properties");
 		
     }
     

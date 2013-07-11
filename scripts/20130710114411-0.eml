@@ -1,9 +1,0 @@
-From: verify@localhost
-To: bill@gates.com
-Message-ID: <18248273.0.1373481851926.JavaMail.lavendbr@L061429>
-Subject: Please verify your email address
-MIME-Version: 1.0
-Content-Type: text/plain; charset=us-ascii
-Content-Transfer-Encoding: 7bit
-
-Please visit http://localhost:8080/EmailVerify/faces/checklink.xhtml?token=EA1BC8D396195E97BDB18BF6C435768A
